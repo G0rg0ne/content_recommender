@@ -64,3 +64,4 @@ Desktop.ini
 
 # Streamlit (never commit secrets)
 .streamlit/secrets.toml
+data/*
